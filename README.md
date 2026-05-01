@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
-### Manufacturing Engineer · Data-Driven · Process Obsessed
+### Industrial Engineer · Data-Driven · Process Obsessed
 
 *"You can't improve what you don't measure."*
 
