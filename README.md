@@ -13,7 +13,7 @@
 
 *"You can't improve what you don't measure."*
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dnidhin97)
 ![Beloit WI](https://img.shields.io/badge/📍-Chicago,%20IL-555?style=flat-square)
 ![LSSBB](https://img.shields.io/badge/Lean%20Six%20Sigma-Black%20Belt-1a1a1a?style=flat-square)
 
