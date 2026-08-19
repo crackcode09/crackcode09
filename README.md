@@ -2,7 +2,7 @@
 
 > Memorable developer positioning.
 
-## Header
+## Intro
 
 Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
@@ -54,7 +54,7 @@ Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, 
 </p>
 ## Connect
 
-Website: https://nidhy.dev/ · LinkedIn: Nidhin Dileepkumar · Email: dileepkumarnidhin@outlook.com
+Website: [nidhyd.dev](https://nidhy.dev/) · LinkedIn: [Nidhin Dileepkumar](https://www.linkedin.com/in/dnidhin97/) · Email: [Outlook](dileepkumarnidhin@outlook.com)
 
 <p align="center">
   <picture>
