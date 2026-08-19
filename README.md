@@ -1,66 +1,64 @@
-<div align="center">
+# crackcode09
 
-```
-███╗   ██╗██╗██████╗ ██╗  ██╗██╗███╗   ██╗
-████╗  ██║██║██╔══██╗██║  ██║██║████╗  ██║
-██╔██╗ ██║██║██║  ██║███████║██║██╔██╗ ██║
-██║╚██╗██║██║██║  ██║██╔══██║██║██║╚██╗██║
-██║ ╚████║██║██████╔╝██║  ██║██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
+> Memorable developer positioning.
 
-### Industrial Engineer · Data-Driven · Process Obsessed
+## Header
 
-*"You can't improve what you don't measure."*
+Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dnidhin97)
-![Beloit WI](https://img.shields.io/badge/📍-Chicago,%20IL-555?style=flat-square)
-![LSSBB](https://img.shields.io/badge/Lean%20Six%20Sigma-Black%20Belt-1a1a1a?style=flat-square)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=crackcode09&theme=github-dark" alt="crackcode09 hero section" />
+  </picture>
+</p>
+## About Me
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=crackcode09&theme=github-dark" alt="crackcode09 about section" />
+  </picture>
+</p>
+## Highlights
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=crackcode09&theme=github-dark" alt="crackcode09 highlights section" />
+  </picture>
+</p>
+## Skills
 
-```yaml
-name:        Nidhin
-role:        Continuous Improvement & Manufacturing Engineer
-company:     PBC Linear · Roscoe, IL
-education:   MS Industrial & Systems Engineering · NIU
-cert:        Lean Six Sigma Black Belt
-focus:       [ SPC, Power BI, Digital Inspection, Smart Manufacturing ]
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=crackcode09&theme=github-dark" alt="crackcode09 stack section" />
+  </picture>
+</p>
+## GitHub Stats
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=crackcode09&theme=github-dark" alt="crackcode09 stats section" />
+  </picture>
+</p>
+## Projects
 
-### ⚙️ What I Build
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=crackcode09&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=crackcode09&theme=github-dark" alt="crackcode09 projects section" />
+  </picture>
+</p>
+## Connect
 
-```
-├── 📊  Controlled Run Chart    → Hybrid 6-component SPC monitoring system
-├── 🏭  Digital Inspection      → Paperless gauging + real-time traceability
-└── 📈  Manufacturing Dashboards → Power BI + SQL Server + SyteLine ERP
-```
+Website: https://nidhy.dev/ · LinkedIn: Nidhin Dileepkumar · Email: dileepkumarnidhin@outlook.com
 
----
-
-### 🧰 Stack
-
-| Domain | Tools |
-|---|---|
-| Analytics | Power BI · DAX · SQL Server · DuckDB |
-| Dev | Python · React · TypeScript · FastAPI |
-| Manufacturing | SPC · Gage R&R · FMEA · VSM |
-| Methods | DMAIC · Kaizen · DOE · Standard Work |
-
----
-
-### 📡 Currently
-
-- 🤖 Exploring **AI + Manufacturing** — computer vision, predictive maintenance, APC
-- 🏗️ Building self-hosted tooling to eliminate per-user SaaS licensing at scale
-- 📝 Documenting original SPC methodology for publication
-
----
-
-<div align="center">
-<sub>Open to collaborating on manufacturing analytics, SPC tooling, or smart manufacturing projects.</sub>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=crackcode09&theme=github-dark&website=https%3A%2F%2Fnidhy.dev%2F&linkedin=Nidhin+Dileepkumar&email=dileepkumarnidhin%40outlook.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=crackcode09&theme=github-dark&website=https%3A%2F%2Fnidhy.dev%2F&linkedin=Nidhin+Dileepkumar&email=dileepkumarnidhin%40outlook.com" alt="crackcode09 social section" />
+  </picture>
+</p>
