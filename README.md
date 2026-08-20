@@ -2,13 +2,13 @@
 
 > Manufacturing engineer, shipping software since the shop floor asked. I map the process before I write the code.
 
-AI-assisted development · manufacturing systems @PBC-Linear — I understood the systems and processes first — then learned to build
+> AI-assisted development · manufacturing systems @PBC-Linear — I understood the systems and processes first — then learned to build
 for them. SPC dashboards, digital inspection, workforce enablement.
 
 > Writing my field notes → [nidhy.dev](https://nidhy.dev)
 ## Intro
 
-Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **Nidhin** 👋. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
