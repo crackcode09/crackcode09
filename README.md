@@ -1,11 +1,11 @@
 # crackcode09
 
-> Industrial engineer who ships production software.
+> Manufacturing engineer, shipping software since the shop floor asked. I map the process before I write the code.
 
-AI-assisted development · manufacturing systems @PBC-Linear —
-SPC dashboards, digital inspection, workforce enablement.
+AI-assisted development · manufacturing systems @PBC-Linear — I understood the systems and processes first — then learned to build
+for them. SPC dashboards, digital inspection, workforce enablement.
 
-Field Notes → [nidhy.dev](https://nidhy.dev)
+> Writing my field notes → [nidhy.dev](https://nidhy.dev)
 ## Intro
 
 Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, and the work I'm proud of.
