@@ -1,6 +1,7 @@
 # crackcode09
 
 > Memorable developer positioning.
+> Industrial engineer who ships production software. AI-assisted development, manufacturing systems like SPC dashboards, digital inspection, workforce enablement @PBC-Linear · Field Notes → nidhy.dev
 
 ## Intro
 
