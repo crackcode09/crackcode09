@@ -1,8 +1,11 @@
 # crackcode09
 
-> Memorable developer positioning.
-> Industrial engineer who ships production software. AI-assisted development, manufacturing systems like SPC dashboards, digital inspection, workforce enablement @PBC-Linear · Field Notes → nidhy.dev
+> Industrial engineer who ships production software.
 
+AI-assisted development · manufacturing systems @PBC-Linear —
+SPC dashboards, digital inspection, workforce enablement.
+
+Field Notes → [nidhy.dev](https://nidhy.dev)
 ## Intro
 
 Hi, I'm **crackcode09**. This README shares what I'm building, the tools I use, and the work I'm proud of.
