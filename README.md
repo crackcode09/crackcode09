@@ -8,7 +8,7 @@ for them. SPC dashboards, digital inspection, workforce enablement.
 > Writing my field notes → [nidhy.dev](https://nidhy.dev)
 ## Intro
 
-Hi, I'm **Nidhin** 👋. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **Nidhin** 👋. This README shares what I'm building, the tools I use, and the work I'm proud of — production apps on factory floors, developer training for manufacturing teams, and honest notes on building with AI.
 
 <p align="center">
   <picture>
