@@ -1,6 +1,6 @@
 # crackcode09
 
-> Manufacturing engineer, shipping software since the shop floor asked. I map the process before I write the code.
+> Industrial Engineer, shipping software since the shop floor asked. I map the process before I write the code.
 
 > AI-assisted development · manufacturing systems @PBC-Linear — I understood the systems and processes first — then learned to build
 for them. SPC dashboards, digital inspection, workforce enablement.
